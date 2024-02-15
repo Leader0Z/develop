@@ -4,9 +4,9 @@ import os
 class Mody(object):
     TG_BOT_TOKEN = os.environ.get("TG_BOT_TOKEN", "")
 
-    APP_ID = int(os.environ.get("APP_ID", 26983509)
+    APP_ID = int(os.environ.get("APP_ID", 25281175))
 
-    API_HASH = os.environ.get("API_HASH", "ab5d4207ca2212869822f58afee6be9e")
+    API_HASH = os.environ.get("API_HASH", "6d99cb2b60a2c519fc1f99bd19565730")
     
     USER_NAME = os.environ.get("USER_NAME", "")
     
