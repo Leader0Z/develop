@@ -4,7 +4,7 @@ from collections import deque
 import requests
 from pyrogram import Client, filters
 from pyrogram.types import Message
-#سورس زد إي بيمسي - @ELHYBA
+#سورس سيزر بيمسي - @ELHYBA
 
 def get_name(msg):
     if msg.from_user.last_name:
@@ -77,11 +77,11 @@ async def permalink_heno(c, msg):
     heno = ['ده بغل مش مستآهل يتهان بالله 🧐😂', 'بس يآبطيخه اخرس خآلص 🤫']
     if not msg.reply_to_message:
         return
-    if msg.reply_to_message.from_user.id == 6581896306:
+    if msg.reply_to_message.from_user.id == 6766128426:
         return await c.send_message(msg.chat.id, f"**- لكك دي هذا المطور **")
-    if msg.reply_to_message.from_user.id == 6581896306:
+    if msg.reply_to_message.from_user.id == 6766128426:
         return await c.send_message(msg.chat.id, f"**- لكك دي هذا المطور**")
-    if msg.reply_to_message.from_user.id == 6581896306:
+    if msg.reply_to_message.from_user.id == 6766128426:
         return await c.send_message(msg.chat.id, f"**- لكك دي هذا المطور**")
     muh = msg.from_user.first_name.replace("\u2060", "") if msg.from_user.first_name else msg.from_user.id
     sos = random.choice(heno)
@@ -95,11 +95,11 @@ async def permalink_hob(c, msg):
     hob = ['10', '20', '30','40','50','60','70','80','90','100']
     if not msg.reply_to_message:
         return
-    if msg.reply_to_message.from_user.id == 6581896306:
+    if msg.reply_to_message.from_user.id == 6766128426:
         return await msg.edit(f"**100%**")
-    if msg.reply_to_message.from_user.id == 6581896306:
+    if msg.reply_to_message.from_user.id == 6766128426:
         return await msg.edit(f"**100%**")
-    if msg.reply_to_message.from_user.id == 6581896306:
+    if msg.reply_to_message.from_user.id == 6766128426:
         return await msg.edit(f"**100%**")
     muh = msg.from_user.first_name.replace("\u2060", "") if msg.from_user.first_name else msg.reply_to_message
     sos = random.choice(hob)
@@ -113,11 +113,11 @@ async def permalink_onotha(c, msg):
     rr7 = ['10', '20', '30','40','50','60','70','80','90','100']
     if not msg.reply_to_message:
         return
-    if msg.reply_to_message.from_user.id == 6581896306:
+    if msg.reply_to_message.from_user.id == 6766128426:
         return await msg.edit(f"**- لكك دي هذا المطور زلمة وعلى راسك**")
-    if msg.reply_to_message.from_user.id == 6581896306:
+    if msg.reply_to_message.from_user.id == 6766128426:
         return await msg.edit(f"**- لكك دي هذه المطورة قمورة وعلى راسك**")
-    if msg.reply_to_message.from_user.id == 6581896306:
+    if msg.reply_to_message.from_user.id == 6766128426:
         return await msg.edit(f"**- لكك دي هذا المطور زلمة وعلى راسك**")
     muh = msg.from_user.first_name.replace("\u2060", "") if msg.from_user.first_name else msg.reply_to_message
     sos = random.choice(rr7)
@@ -143,11 +143,11 @@ async def permalink_rgola(c, msg):
     kz = ['10', '20', '30','40','50','60','70','80','90','100']
     if not msg.reply_to_message:
         return
-    if msg.reply_to_message.from_user.id == 6581896306:
+    if msg.reply_to_message.from_user.id == 6766128426:
         return await msg.edit(f"**100%**")
-    if msg.reply_to_message.from_user.id == 6581896306:
+    if msg.reply_to_message.from_user.id == 6766128426:
         return await msg.edit(f"**100%**")
-    if msg.reply_to_message.from_user.id == 6581896306:
+    if msg.reply_to_message.from_user.id == 6766128426:
         return await msg.edit(f"**100%**")
     muh = msg.from_user.first_name.replace("\u2060", "") if msg.from_user.first_name else msg.reply_to_message
     sos = random.choice(kz)
@@ -161,11 +161,11 @@ async def permalink_mnuka(c, msg):
     mn = ['10', '20', '30','40','50','60','70','80','90','100']
     if not msg.reply_to_message:
         return
-    if msg.reply_to_message.from_user.id == 6581896306:
+    if msg.reply_to_message.from_user.id == 6766128426:
         return await msg.edit(f"**0%**")
-    if msg.reply_to_message.from_user.id == 6581896306:
+    if msg.reply_to_message.from_user.id == 6766128426:
         return await msg.edit(f"**0%**")
-    if msg.reply_to_message.from_user.id == 6581896306:
+    if msg.reply_to_message.from_user.id == 6766128426:
         return await msg.edit(f"**0%**")
     muh = msg.from_user.first_name.replace("\u2060", "") if msg.from_user.first_name else msg.reply_to_message
     sos = random.choice(mn)
@@ -179,11 +179,11 @@ async def permalink_tares(c, msg):
     ts = ['10', '20', '30','40','50','60','70','80','90','100']
     if not msg.reply_to_message:
         return
-    if msg.reply_to_message.from_user.id == 6581896306:
+    if msg.reply_to_message.from_user.id == 6766128426:
         return await msg.edit(f"**0%**")
-    if msg.reply_to_message.from_user.id == 6581896306:
+    if msg.reply_to_message.from_user.id == 6766128426:
         return await msg.edit(f"**0%**")
-    if msg.reply_to_message.from_user.id == 6581896306:
+    if msg.reply_to_message.from_user.id == 6766128426:
         return await msg.edit(f"**0%**")
     muh = msg.from_user.first_name.replace("\u2060", "") if msg.from_user.first_name else msg.reply_to_message
     sos = random.choice(ts)
@@ -197,11 +197,11 @@ async def permalink_zakaa(c, msg):
     zk = ['10', '20', '30','40','50','60','70','80','90','100']
     if not msg.reply_to_message:
         return
-    if msg.reply_to_message.from_user.id == 6581896306:
+    if msg.reply_to_message.from_user.id == 6766128426:
         return await msg.edit(f"**100%**")
-    if msg.reply_to_message.from_user.id == 6581896306:
+    if msg.reply_to_message.from_user.id == 6766128426:
         return await msg.edit(f"**100%**")
-    if msg.reply_to_message.from_user.id == 6581896306:
+    if msg.reply_to_message.from_user.id == 6766128426:
         return await msg.edit(f"**100%**")
     muh = msg.from_user.first_name.replace("\u2060", "") if msg.from_user.first_name else msg.reply_to_message
     sos = random.choice(zk)
@@ -215,11 +215,11 @@ async def permalink_korah(c, msg):
     kr = ['10', '20', '30','40','50','60','70','80','90','100']
     if not msg.reply_to_message:
         return
-    if msg.reply_to_message.from_user.id == 6581896306:
+    if msg.reply_to_message.from_user.id == 6766128426:
         return await msg.edit(f"**0%**")
-    if msg.reply_to_message.from_user.id == 6581896306:
+    if msg.reply_to_message.from_user.id == 6766128426:
         return await msg.edit(f"**0%**")
-    if msg.reply_to_message.from_user.id == 6581896306:
+    if msg.reply_to_message.from_user.id == 6766128426:
         return await msg.edit(f"**0%**")
     muh = msg.from_user.first_name.replace("\u2060", "") if msg.from_user.first_name else msg.reply_to_message
     sos = random.choice(kr)
@@ -233,11 +233,11 @@ async def permalink_gamdan(c, msg):
     kmd = ['10', '20', '30','40','50','60','70','80','90','100']
     if not msg.reply_to_message:
         return
-    if msg.reply_to_message.from_user.id == 6581896306:
+    if msg.reply_to_message.from_user.id == 6766128426:
         return await msg.edit(f"**100%**")
-    if msg.reply_to_message.from_user.id == 6581896306:
+    if msg.reply_to_message.from_user.id == 6766128426:
         return await msg.edit(f"**100%**")
-    if msg.reply_to_message.from_user.id == 6581896306:
+    if msg.reply_to_message.from_user.id == 6766128426:
         return await msg.edit(f"**100%**")
     muh = msg.from_user.first_name.replace("\u2060", "") if msg.from_user.first_name else msg.reply_to_message
     sos = random.choice(kmd)
@@ -251,11 +251,11 @@ async def permalink_ayman(c, msg):
     aym = ['10', '20', '30','40','50','60','70','80','90','100']
     if not msg.reply_to_message:
         return
-    if msg.reply_to_message.from_user.id == 6581896306:
+    if msg.reply_to_message.from_user.id == 6766128426:
         return await msg.edit(f"**100%**")
-    if msg.reply_to_message.from_user.id == 6581896306:
+    if msg.reply_to_message.from_user.id == 6766128426:
         return await msg.edit(f"**100%**")
-    if msg.reply_to_message.from_user.id == 6581896306:
+    if msg.reply_to_message.from_user.id == 6766128426:
         return await msg.edit(f"**100%**")
     muh = msg.from_user.first_name.replace("\u2060", "") if msg.from_user.first_name else msg.reply_to_message
     sos = random.choice(aym)
@@ -269,11 +269,11 @@ async def permalink_gamal(c, msg):
     gam = ['10', '20', '30','40','50','60','70','80','90','100']
     if not msg.reply_to_message:
         return
-    if msg.reply_to_message.from_user.id == 6581896306:
+    if msg.reply_to_message.from_user.id == 6766128426:
         return await msg.edit(f"**100%**")
-    if msg.reply_to_message.from_user.id == 6581896306:
+    if msg.reply_to_message.from_user.id == 6766128426:
         return await msg.edit(f"**100%**")
-    if msg.reply_to_message.from_user.id == 6581896306:
+    if msg.reply_to_message.from_user.id == 6766128426:
         return await msg.edit(f"**100%**")
     muh = msg.from_user.first_name.replace("\u2060", "") if msg.from_user.first_name else msg.reply_to_message
     sos = random.choice(gam)
@@ -1343,12 +1343,12 @@ async def anem_1(c, msg):
         "😧",
         "😡",
         "😢",
-        "‎**تنصيب سورس زد إي**",
+        "‎**تنصيب سورس سيزر**",
         "??",
         "😧",
         "😡",
         "😢",
-        "__**[قناه تنصيب حسابات تيليثون - ✅]**__(t.me/Source_Ze)",
+        "__**[قناه تنصيب حسابات تيليثون - ✅]**__(t.me/Dlcor)",
     ]
     for i in animation_ttl:
         await asyncio.sleep(animation_interval)
@@ -1357,7 +1357,7 @@ async def anem_1(c, msg):
 # == == == == == == == == == == == == == == == == == == == ==
 
 @Client.on_message(filters.command("بشره$", prefixes=f".") & filters.me)
-async def bZEra_1(c, msg):
+async def bSRra_1(c, msg):
     animation_interval = 2
     animation_ttl = range(6)
     event = await c.send_message(msg.chat.id, "جميع ألوان البشره يرحقلبي - ❤.")
@@ -1766,7 +1766,7 @@ async def gkahgagw(client: Client, message: Message):
         "⬜⬜⬛⬜⬜\n⬜⬜⬛⬜⬜\n⬜⬜🔴⬜⬜",
         "⬜⬜⬛⬜⬜\n⬜⬛⬜⬜⬜\n🔴⬜⬜⬜⬜",
         "🔴⬛⬛⬜⬜\n⬜⬜⬜⬜⬜\n⬜⬜⬜⬜⬜",
-        "⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜\n⬜  [🔱 𝐒𝐎𝐔𝐑𝐂𝐄 𝐙𝐄 🔱](https://t.me/Source_Ze) ⬜\n⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜",
+        "⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜\n⬜  [⚡️𝗦َِ𝗘ََِِ𝗭َِ𝗔َِ𝗥 ⚡️](https://t.me/Dlcor) ⬜\n⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜",
     ]
     if message.forward_from:
         return
@@ -1811,7 +1811,7 @@ async def tyara(client: Client, message: Message):
 # == == == == == == == == == == == == == == == == == == == ==
 
 @Client.on_message(filters.command(["مرتبطين", "كبلز"], ".") & filters.me)
-async def zeyenk(client: Client, message: Message):
+async def SRyenk(client: Client, message: Message):
     await message.edit_text("💝💘💓💗")
     asyncio.sleep(2)
     await message.edit_text("💞💕💗💘")
@@ -1887,7 +1887,7 @@ async def gahite(client: Client, message: Message):
 
 # == == == == == == == == == == == == == == == == == == == ==
 
-@Client.on_message(filters.command(["ZE", "سورس زد إي", "السورس"], ".") & filters.me)
+@Client.on_message(filters.command(["SR", "سورس سيزر", "السورس"], ".") & filters.me)
 async def gajjajay(client: Client, message: Message):
     await message.edit("هلو")
     await asyncio.sleep(0.3)
@@ -1895,7 +1895,7 @@ async def gajjajay(client: Client, message: Message):
     await asyncio.sleep(0.2)
     await message.edit("هتشوف الجمدان كلو")
     await asyncio.sleep(0.5)
-    await message.edit("ZE بتعمل عظمه ")
+    await message.edit("SR بتعمل عظمه ")
     await asyncio.sleep(0.2)
     await message.edit("فوق")
     await asyncio.sleep(0.3)
@@ -1903,7 +1903,7 @@ async def gajjajay(client: Client, message: Message):
     await asyncio.sleep(0.3)
     await message.edit("🔥🔥🔥")
     await asyncio.sleep(0.3)
-    await message.edit("سورس زد إي هيعمل عظمه 🥹❤️")
+    await message.edit("سورس سيزر هيعمل عظمه 🥹❤️")
 
 # == == == == == == == == == == == == == == == == == == == ==
 
@@ -2024,7 +2024,7 @@ async def dbabaa(client: Client, message: Message):
 # == == == == == == == == == == == == == == == == == == == ==
 
 @Client.on_message(filters.command("خنزير", ".") & filters.me)
-async def hanzer(client: Client, message: Message):
+async def hanZEr(client: Client, message: Message):
     animation_interval = 0.5
     animation_ttl = range(6)
     animation_chars = [
@@ -2173,4 +2173,4 @@ async def hak(client: Client, message: Message):
   asyncio.sleep(2)
   await message.edit_text("تهكيـر... 100%\n████████████████████████")
   asyncio.sleep(2)
-  await message.edit_text("۞︙  تـم اخـتراق الضـحية..\n\nقـم بالـدفع الى سورس زد إي لعـدم نشـر معلوماتك وصـورك")
+  await message.edit_text("۞︙  تـم اخـتراق الضـحية..\n\nقـم بالـدفع الى سورس سيزر لعـدم نشـر معلوماتك وصـورك")
